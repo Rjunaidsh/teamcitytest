@@ -1,7 +1,6 @@
 
 # Pull the image from the docker hub
 docker pull ubuntu: latest
-
 #Login to the docker hub
 docker login
 #Tag the docker image to your registry
